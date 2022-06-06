@@ -1,3 +1,5 @@
+![ReactLoopHomepage](https://user-images.githubusercontent.com/100682160/172231095-142b4a91-526d-48ce-85dc-6bc9b079af46.png)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
